@@ -1,0 +1,105 @@
+.pravin{
+    height: 700px;
+        width: 1200px;
+    
+        background-image: url(./shara\ desert.jpg);
+    }
+    .s1{
+        margin-top: 15%;
+        margin-left: 30px;
+       }
+    input{
+        height: 30px;
+        width: 130px;
+        border-radius: 50px;
+        margin-top: 20px;
+    }
+    
+    .p1{
+      
+        margin-left: 60%;
+        word-spacing: 40px;
+        margin-top: 20px;
+    }
+    .heding{
+     
+        display:flex;
+        margin-left: 70%;
+    } 
+    .about{
+        margin-right: 20px;
+    }
+    .region{
+        margin-right: 20px;
+    }
+    .home{
+        margin-right: 20px;
+    }
+    .menu{
+        margin-right: 20px;
+        height: 20px;
+        width: 20px;
+       border-radius: 50px;
+        border: 1px solid;
+        text-align: center;
+    }
+    .logo{
+     margin-right: 80%;
+    }
+    
+    .card{
+        height: 520px;
+        width: 440px;
+        display:flex;
+        position: absolute;
+        margin: 20px;
+        margin-left: 50%;
+        bottom: 0.1px;
+    }
+        .card:hover{
+            transform:translate(4px, 4px);
+        }
+    
+     
+    
+    .card1 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 250px;
+        width: 200px;
+        background-image: url(./pic-1.png);
+        border-radius: 10px;
+        text-align: center;
+       
+    }
+    .card2 {
+        position: absolute;
+        top: 0;
+        right: 0%;
+        height: 250px;
+        width: 200px;
+       background-image: url(./pic-2.png);
+        border-radius: 10px;
+        text-align: center;
+    }
+    .card3{
+        position: absolute;
+        bottom: 0%;
+        left: 0;
+        height: 250px;
+        width: 200px;
+        background-image: url(./pic-3.png);
+        border-radius: 10px;
+        text-align: center;
+    }
+    .card4 {
+        bottom: 0%;
+        right: 0%;
+        position: absolute;
+        height: 250px;
+        width: 200px;
+        background-image: url(./pic-4.png);
+        border-radius: 10px;
+        text-align: center;
+    }
